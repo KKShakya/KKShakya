@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Shakya</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img width = "400" align="right"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="kkshakya" />
+<img width = "400" align="center"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="kkshakya" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshakya&label=Profile%20views&color=0e75b6&style=flat" alt="kkshakya" /> </p>
 
