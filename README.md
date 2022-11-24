@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Kumar Shakya</h1>
 <h3 align="center">A Keen learner and Full Stack Web Developer.</h3>
+<img align="center"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="kkshakya" />
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=KKShakya&margin-w=15" alt="kkshakya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkshakya" alt="kkshakya" /></a> </p>
 
 - 🔭 I’m currently working on **BeYoung {Ecommerce}**
 
