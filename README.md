@@ -11,16 +11,16 @@
 
 - 👨‍💻 All of my projects are available at [https://kkshakya.github.io/](https://kkshakya.github.io/)
 
-- 💬 Ask me about **react,js,html,css**
+- 💬 Ask me about **React,JS,HTML,CSS**
 
 - 📫 How to reach me **krishnashakya7272@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codinglaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coding_law" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coding_law" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,9 +29,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshakya&show_icons=true&locale=en&layout=compact" alt="kkshakya" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshakya&show_icons=true&locale=en&layout=compact" alt="kkshakya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkshakya&show_icons=true&locale=en" alt="kkshakya" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkshakya&show_icons=true&locale=en" alt="kkshakya" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=KKShakya&theme=vue-dark&border_radius=5" alt="kkshakya" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=KKShakya&theme=vue-dark&border_radius=5" alt="kkshakya" /></p>
+<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
