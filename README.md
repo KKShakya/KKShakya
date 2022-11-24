@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar Shakya</h1>
 <h3 align="center">A Keen learner and Full Stack Web Developer.</h3>
 <img align="center"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="kkshakya" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkshakya&label=Profile%20views&color=0e75b6&style=flat" alt="kkshakya" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=KKShakya&margin-w=15" alt="kkshakya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkshakya" alt="kkshakya" /></a> </p>
 
@@ -29,9 +29,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshakya&show_icons=true&locale=en&layout=compact" alt="kkshakya" /></p>
+
+<p display="block"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshakya&show_icons=true&locale=en&layout=compact" alt="kkshakya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkshakya&show_icons=true&locale=en" alt="kkshakya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkshakya&" alt="kkshakya" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=KKShakya&theme=vue-dark&border_radius=5" alt="kkshakya" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
