@@ -36,7 +36,7 @@
 </p>
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=KKShakya&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=KKShakya&theme=algolia">
 	
-<img align="center" src="https://streak-stats.demolab.com?user=KKShakya&theme=vue-dark&border_radius=5" alt="kkshakya" /></p>
+<img align="center" src="https://streak-stats.demolab.com?user=KKShakya&theme=algolia&border_radius=5" alt="kkshakya" /></p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
