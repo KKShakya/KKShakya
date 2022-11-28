@@ -35,8 +35,8 @@
 	
 </p>
 
-<p align="center" style="margin-right:0px;padding-right:0px">
+<p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:20px">
 <img src="https://github-readme-stats.vercel.app/api?username=KKShakya">
-	
-<img  src="https://streak-stats.demolab.com?user=KKShakya&border_radius=5" alt="kkshakya" /></p>
+<img src="https://streak-stats.demolab.com?user=KKShakya&border_radius=5" alt="kkshakya" />
+</p>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
