@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React, Redux,NextJS**
 
-- 👨‍💻 All of my projects are available at [https://kkshakya.github.io/](https://kkshakya.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kkshakya.github.io/)
 
-- 💬 Ask me about **react,js,html,css**
+- 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me **krishnashakya7272@gmail.com**
+- 📫 How to reach me [Email]**krishnashakya7272@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
 
