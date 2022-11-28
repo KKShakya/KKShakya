@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
-- 📫 How to reach me [Email]**krishnashakya7272@gmail.com**
+- 📫 How to reach me **krishnashakya7272@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
