@@ -25,7 +25,7 @@
 
 
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=KKShakya&theme=dark)](https://git.io/streak-stats)</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkshakya&show_icons=true&locale=en&layout=compact" alt="kkshakya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkshakya&show_icons=true&locale=en" alt="kkshakya" /></p>
 
