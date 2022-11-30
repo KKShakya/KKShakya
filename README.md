@@ -17,8 +17,12 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
 <hr/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer+!;Fullstack+Developer+!;Coder+Lover+!;Problem+Solver+!" > 
+</p>
 <a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/codinglaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
 </p>
