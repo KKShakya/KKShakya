@@ -3,7 +3,7 @@
 <h3 align="center">A Keen learner and Full Stack Web Developer.</h3>
 <img align="center"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="kkshakya" />
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=KKShakya&margin-w=15" alt="kkshakya" /> </p>
-
+<hr />
 
 - 🔭 I’m currently working on **BeYoung {Ecommerce}**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **krishnashakya7272@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s-R92_-qT7yQlM0i9dKE6cdqGhuCd022/view?usp=sharing)
-
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
 </p>
 
 
-
+<hr/>
  <h2> 📊 Github Stats ....</h2>
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKShakya&theme=github">
@@ -34,7 +34,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KKShakya&theme=github&utcOffset=8">
 	
 </p>
-
+<hr/>
 <p align="center" style="margin-right:0px;padding-right:0px;display:flex;gap:40px">
 <img src="https://github-readme-stats.vercel.app/api?username=KKShakya">
 <img src="https://streak-stats.demolab.com?user=KKShakya&border_radius=5" alt="kkshakya" />
