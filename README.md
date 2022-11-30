@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Krishna Kumar Shakya</h1>
-<img src="https://www.bluearc.co.in/assets/img/Service/5.gif" alt="javascript" width="100%"/>
+<img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="javascript" width="100%" height="400px"/>
 
 <br/>
 <h3 align="center">A Keen learner and Full Stack Web Developer. With 1200+hrs experience in coding and DSA, worked on industry relevant projects with different teams and environments. A detail-oriented software developer with knowledge in MERN Stack and other industry based languages(TypeScript,NextJS,Chakra-UI...)</h3>
