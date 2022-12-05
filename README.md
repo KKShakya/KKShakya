@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **React, Redux,NextJS**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kkshakya.github.io/)
+- 👨‍💻 All of my projects are available at [Click Me!]([https://kkshakya.github.io/](https://github.com/KKShakya?tab=repositories))
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
