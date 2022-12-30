@@ -72,4 +72,4 @@
 <hr/>
 <br/>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=KKShakya&theme=github" alt="kkshakya" /></p>
+<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KKShakya&theme=github&hide_border=true" /></p>
