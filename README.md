@@ -74,4 +74,4 @@
 <hr/>
 <br/>
 
-<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KKShakya&theme=github&hide_border=true" /></p>
+[//]: # (<p><img alt="Krishna Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=KKShakya&theme=github&hide_border=true" /></p>)
