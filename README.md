@@ -5,7 +5,7 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=utopian-akanksha&label=Profile%20views&color=0e75b6&style=flat" alt="utopian-akanksha" /> </p>
 
-<h3 align="center">A Keen learner and Full Stack Web Developer. With 1200+hrs experience in coding and DSA, worked on industry relevant projects with different teams and environments. A detail-oriented software developer with knowledge in MERN Stack and other industry based languages(TypeScript,NextJS,Chakra-UI...)</h3>
+<h3 align="center">A Keen learner and Full Stack Web Developer. With 1200+hrs experience in coding and DSA, worked on industry relevant projects with different teams and environments. A detail-oriented software developer with knowledge in MERN Stack and other industry based languages(Javascript,REact,Redux,NextJS,Chakra-UI...)</h3>
 <br/>
 <br/>
 
