@@ -15,8 +15,9 @@
 
 
   ## 🙋‍♂️ About Me
+- 🌱 I’m currently working on **[Mini-typing-tutor!](https://github.com/KKShakya/Mini-typing-tutor)**
 
-- 🌱 I’m currently learning **React, Redux,NextJS**
+- 🌱 I’m currently learning **ReduxToolkit, Typescript, css(Sass), React Native**
 
 - 👨‍💻 All of my projects are available at [Click Me!](https://github.com/KKShakya?tab=repositories)
 
