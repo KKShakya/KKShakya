@@ -17,7 +17,7 @@
   ## 🙋‍♂️ About Me
 - 🌱 I’m currently working on **[Chat-App!](https://github.com/KKShakya/Chat_App)**
 
-- 🌱 I’m currently learning **ReduxToolkit, Typescript, css(Sass), React Native**
+- 🌱 I’m currently learning **ReduxToolkit, Typescript, css(Sass),BootStrap**
 
 - 👨‍💻 All of my projects are available at [Click Me!](https://github.com/KKShakya?tab=repositories)
 
