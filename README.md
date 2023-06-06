@@ -15,7 +15,7 @@
 
 
   ## 🙋‍♂️ About Me
-- 🌱 I’m currently working on **[Mini-typing-tutor!](https://github.com/KKShakya/Mini-typing-tutor)**
+- 🌱 I’m currently working on **[Chat-App!](https://github.com/KKShakya/Chat_App)**
 
 - 🌱 I’m currently learning **ReduxToolkit, Typescript, css(Sass), React Native**
 
