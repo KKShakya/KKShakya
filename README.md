@@ -36,8 +36,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&lines=I+am+Krishna+Kumar+Shakya+!;A+Fullstack+Web+Developer+!;let+'+s+get+connected++on+LinkedIn" > 
 </p>
-<a href="https://linkedin.com/in/krishnashakya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coding_law" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnashakya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnashakya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coding_law" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/codingLaw" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="codinglaw" height="30" width="40" /></a>
 </p>
 <hr/>
 
